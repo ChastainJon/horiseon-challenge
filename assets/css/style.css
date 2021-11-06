@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* float */
+/* floats */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -98,7 +98,7 @@ main {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Services Styling */
 .services{
     margin-bottom: 20px;
     padding: 50px;
